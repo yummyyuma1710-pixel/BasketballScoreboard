@@ -1,0 +1,51 @@
+body {
+    background-color: #1B244A;
+    color:white;
+    text-align:center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.word {
+    font-size :35px; 
+    margin:10px;
+}
+
+.buttons {
+    margin:px; 
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #9AABD8;
+    border:1px solid #9AABD8;
+    background-color:#1B244A;
+    padding:8px 10px; 
+    margin-top: 15px;
+    border-radius:5px; 
+}
+
+.counter{
+    background-color:black;
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color:#F94F6D;
+    font-size: 40px;
+    width: 140px; 
+    height:100px; 
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.button-separate {
+    display:flex; 
+    justify-content:space-around;
+}
+
+.reset {
+    background-color:white;
+    color:black;
+    margin-top:25px;
+    
+}
